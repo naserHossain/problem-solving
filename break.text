@@ -1,0 +1,9 @@
+// find out a higher and lower variable from a array.
+
+make a higher variable.
+make a lower variable.
+iterate the whole array.
+let's check is there has any error.
+if higher variable has smaller number than our current number then value will be our current element.
+if lower variable has bigger than our current number then value will be our current element.
+return our higher & lower number.
